@@ -30,14 +30,19 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+<img width="980" height="725" alt="image" src="https://github.com/user-attachments/assets/c3bb8efe-4a32-4090-8197-f1936ea87ff9" />
 
 V-I & REGULATION CHARACTERISTICS:
+<img width="895" height="676" alt="image" src="https://github.com/user-attachments/assets/11e8b092-00bb-4136-9f70-30683566d891" />
+<img width="562" height="765" alt="image" src="https://github.com/user-attachments/assets/418f32ec-386c-4cbe-aea1-c92c61dd69ac" />
+<img width="740" height="318" alt="image" src="https://github.com/user-attachments/assets/d8dfea16-d3b4-42f7-b974-3e1a707fc2e0" />
+<img width="504" height="252" alt="image" src="https://github.com/user-attachments/assets/37767f3d-8e44-4a0e-882c-90eaaaefb51a" />
 
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
-
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
